@@ -1,10 +1,34 @@
-# Python OOP
+# Python Object-Oriented Programming
 
 ## Tasks
 
-### 1. class and object creation
+### 1. Classes and Objects
 
-*  learn how to create class and object and how to call mehtods using object.
+* Create product objects and use their methods.
+
+### 2. Constructors and Encapsulation
+
+* Initialize product objects and manage price with getter and setter methods.
+
+### 3. Inheritance
+
+* Extend a product class with an electronic product class.
+
+### 4. Polymorphism
+
+* Use shared methods with laptop and mobile classes.
+
+### 5. Abstract Classes
+
+* Define payment methods that subclasses implement.
+
+### 6. Magic Methods and Operator Overloading
+
+* Customize product string output and addition behavior.
+
+### 7. Inventory System
+
+* Manage store products and calculate inventory value.
 
 ## Requirements
 
@@ -13,12 +37,4 @@
 
 ## How to Run
 
-Run each Python file individually from the terminal:
-
-```bash
-python task_class_object_1.py
-
-
-
-
-```
+Open and run `oop_concepts.ipynb` in Jupyter Notebook or VS Code.
