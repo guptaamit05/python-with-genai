@@ -1,0 +1,3 @@
+mobile | 100
+laptop | 25000
+cap | 100
