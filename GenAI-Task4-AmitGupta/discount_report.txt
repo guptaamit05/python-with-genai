@@ -1,0 +1,15 @@
+Mouse|500|600.0
+Keyboard|800|960.0
+Monitor|7000|8400.0
+Camera|5000|6000.0
+Pendrive|400|480.0
+Mouse|500|525.0
+Keyboard|800|840.0
+Monitor|7000|7350.0
+Camera|5000|5250.0
+Pendrive|400|420.0
+Mouse|500|520.0
+Keyboard|800|832.0
+Monitor|7000|7280.0
+Camera|5000|5200.0
+Pendrive|400|416.0
